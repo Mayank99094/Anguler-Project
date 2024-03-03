@@ -10,7 +10,6 @@ Welcome to the Todo List Angular project! This application helps you manage your
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
