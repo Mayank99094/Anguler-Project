@@ -37,7 +37,7 @@ Follow these steps to set up the Todo List project on your local machine:
 2. Navigate to the project directory:
 
     ```bash
-    cd 
+    cd Anguler-Project
     ```
 
 3. Install dependencies:
